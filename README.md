@@ -2,4 +2,5 @@
 
 1. Data Collection
 2. Data Cleansing with Spark
-3. Upload Data To Google Cloud Storage
+3. Upload & Download Data To Google Cloud Storage
+4. Airflow Pipeline
