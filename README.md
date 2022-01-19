@@ -2,3 +2,4 @@
 
 1. Data Collection
 2. Data Cleansing with Spark
+3. Upload Data To Google Cloud Storage
